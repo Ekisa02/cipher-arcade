@@ -1,0 +1,8 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.poetry]
+name = "cipher-arcade"
+version = "0.1.0"
+description = "Blockchain & crypto utilities with FastAPI and PyTorch"
